@@ -4,4 +4,4 @@
     check: 
       jobs:
         - ansible-lint
-        - yaml-lint
+        - yamllint
