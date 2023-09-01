@@ -5,3 +5,4 @@
       jobs:
         - ansible-lint
         - yamllint
+        - noop
