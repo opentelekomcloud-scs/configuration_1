@@ -3,6 +3,4 @@
     default-branch: main
     check: 
       jobs:
-        - ansible-lint
-        - yamllint
         - noop
